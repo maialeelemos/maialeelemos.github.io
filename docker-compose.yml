@@ -1,0 +1,18 @@
+version: '3'
+services:
+  portfolio:
+      build:
+        context: .
+        target: dev
+      image: lemosassoc/portfolio:1.0
+      environment:
+        - JEKYLL_ENV=development
+      command: jekyll serve --watch --force_polling --verbose
+      ports:
+        - 4000:4000
+      volumes:
+        - .:/srv/jekyll
+
+
+# Source: https://urre.me/writings/docker-compose-and-jekyll/
+# Documentation: https://docs.docker.com/compose/compose-file/
