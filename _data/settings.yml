@@ -40,10 +40,31 @@ disqus:
 # About Section
 
 about: >
-  # Maia's Artwork
+  # Maia's Portfolio
 
-  This is the portfolio site for Maia, built on Jekyll and hosted on Github.
+  Hi! My name is Maia Lemos and I'm a second year studying Computer Science and
+  Media Arts at Northeastern University's Khoury College.
 
+
+  I have taken a couple programming classes in highschool, however I have started
+  coding in earnest starting my first year of college. I have been working on learning
+  a variety of languages, Java in particular, through my courses. However, I also
+  have experience in HTML, CSS, Ruby, and JavaScript. I have also experimented
+  by creating my own personal projects to further my learning in
+  object-oriented concepts and web development.
+
+
+  This website is a portfolio of my art and computer science projects. You will
+  find these in the Project tab. The Blog tab will be composed of posts similar
+  to annoucements from my academic life. Lastly, if you wish to contact me
+  through email, please visit the Contact tab.
+
+
+  Thank you for visiting my page!
+
+
+  Credit:
+  This is the portfolio site for Maia Lemos, built on Jekyll and hosted on Github.
   Based on a theme by Le Paul, available on [his GitHub repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork).
 
 #  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
@@ -51,7 +72,9 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](lemos.m@northeastern.edu) or [through
+  LinkedIn](https://www.linkedin.com/in/maia-lemos/) if you have any questions,
+  wish to hire me, or would like to bring up any issues.
 
 #-------------------------------
 # Work Section
@@ -67,10 +90,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/maialeelemos'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/maia-lemos/'}
+- {icon: 'envelope', link: 'lemos.m@northeastern.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

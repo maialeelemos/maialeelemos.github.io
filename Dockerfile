@@ -1,4 +1,5 @@
 FROM jekyll/jekyll:3.8
+# above can be 4.0 instead of 3.8
 
 WORKDIR /srv/jekyll
 ADD . ./

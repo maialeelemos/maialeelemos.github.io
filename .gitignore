@@ -32,3 +32,6 @@ _site/
 
 ### Gemfile ###
 Gemfile.lock
+
+### My Files ###
+deploy.md

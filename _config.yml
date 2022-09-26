@@ -12,6 +12,6 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Maia's Art"
+title:		           "Maia's Portfolio"
 description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Maia Lemos"
