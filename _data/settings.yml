@@ -43,19 +43,22 @@ about: >
   # Maia's Portfolio
 
   Hi! My name is Maia Lemos and I'm a sophmore studying Computer Science and
-  Media Arts at Northeastern University's Khoury College.
+  Media Arts at Northeastern University's Khoury College.  
+
+  My programming experience includes programming classes in highschool and as 
+  part of my major for the past two years. I've learned a variety of languages in
+  my courses -- mostly java, but also HTML, CSS, and JavaScript. I've learned Ruby 
+  and the Jekyll framework on my own.
 
 
-  I have taken a couple programming classes in highschool, however I have started
-  coding in earnest starting my first year of college. I have been working on learning
-  a variety of languages, Java in particular, through my courses. However, I also
-  have experience in HTML, CSS, Ruby, and JavaScript. I have also experimented
-  by creating my own personal projects to further my learning in
-  object-oriented concepts and web development.
+  I've completed several complex projects in my classes -- including a maze generator/solver 
+  and an image processing application -- but I have also started creating my own 
+  personal projects to further my learning in object-oriented concepts and web
+  development.
 
 
-  This website is a portfolio of my art and computer science projects. You will
-  find these in the Project tab. The Blog tab will be composed of posts similar
+  This website is a portfolio of my art and computer science projects, which you will
+  find in the Project tab. The Blog tab will be composed of posts similar
   to annoucements from my academic life. Lastly, if you wish to contact me
   through email, please visit the Contact tab.
 
@@ -63,9 +66,9 @@ about: >
   Thank you for visiting my page!
 
 
-  Credit:
+  /*Credit:*
   This is the portfolio site for Maia Lemos, built on Jekyll and hosted on Github.
-  Based on a theme by Le Paul, available on [his GitHub repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork).
+  Based on a theme by Le Paul, available on [his GitHub repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork)./
 
 #  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
