@@ -6,7 +6,7 @@ title: 'Image Processor'
 I created this simple image processor using object-oriented concepts like the Command Design Pattern,
 MVC (Mode, View Controller) model, and Factory Pattern. The image processor supports 15 different commands such as flipping, greyscaling, blurring, sharpening, loading, and saving an image. All these commands are there own classes that implement a single  interface and method, following the Command Design Pattern.
 
-{% include youtubePlayer.html id="yF9jhOZuqJw" %}
+{% include youtubePlayer.html id="_QM6WjbqOyw" %}
 
 My code is also separated into a model, view, and controller. The model stores a collection of images and holds the method to call commands and edit an image. I also have two views: a text and GUI (graphical user interface). Lastly, the controller
 takes in user input and correctly calls upon the model and view to execute the what the user desires.
