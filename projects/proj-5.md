@@ -8,14 +8,16 @@ This section includes my art porfolio pieces I created at my highschool, Phillip
 {% include singleimage.html url="" image="projects/proj-5/2018-02-01-electric-fan.jpg" %}
 
 ## Antique Fan
-Materials: grpahite pencils (2B, 4B, 6B), ruler, Strathmore paper
+Materials: graphite pencils (2B, 4B, 6B), ruler, Strathmore paper
+
 Size of Work: 18x24 inches
 
 This is a graphite still life drawing that took me 17 hours to complete. I sought to improve my shading and textures by using varying techniques of hatching, crosshatching, stippling, and blending to achieve a more realistic look. 
 
 ## Amaryllis, Daffodil, and Gardenia
 Materials: Van Goph watercolors, brushes, hot-pressed paper, Faber-Castell colored pencils, Pigma micron liner
-Size of Work: 9x12 inches
+
+Size of Work: 9x12 inches each
 
 Gardenia, Daffodil, and Amaryllis is a series of portraits of strong women. I pushed myself out of my comfort zone by combining multiple mediums in one piece (colored pencil, watercolor, and ink). 
 

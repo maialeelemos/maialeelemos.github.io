@@ -42,28 +42,33 @@ disqus:
 about: >
   # Maia's Portfolio
 
-  Hi! My name is Maia Lemos and I'm a sophmore studying Computer Science and
+  Hi! My name is Maia Lemos and I'm a junior (3rd year) studying Computer Science and
   Media Arts at Northeastern University's Khoury College.  
 
+
   My programming experience includes programming classes in highschool and as 
-  part of my major for the past two years. I've learned a variety of languages in
+  part of my major for the past two years and a previous co-op experience. I've learned a variety of languages in
   my courses -- mostly java, but also HTML, CSS, and JavaScript. I've learned Ruby 
-  and the Jekyll framework on my own.
+  and the Jekyll framework on my own, creating this portfolio website.
 
 
-  I've completed several complex projects in my classes -- including a maze generator/solver 
+  I've also completed several complex projects in my classes -- including a maze generator/solver 
   and an image processing application -- but I have also started creating my own 
   personal projects to further my learning in object-oriented concepts and web
   development.
 
 
+  Through my experience as a software engineer co-op in Spring 2023, I gained experience with SQL/SQLite, XML, 
+  android software development, and working in a professional setting.
+
+
   This website is a portfolio of my art and computer science projects, which you will
   find in the Project tab. The Blog tab will be composed of posts similar
-  to annoucements from my academic life. Lastly, if you wish to contact me
-  through email, please visit the Contact tab.
+  to announcements from my academic/work life. Lastly, if you wish to contact me
+  through email or LinkedIn, please visit the Contact tab.
 
 
-  Thank you for visiting my page!
+  Thank you for visiting my portfolio!
 
 
   ***Credit:**
@@ -85,8 +90,10 @@ contact: >
 projects:
 - {name: 'Charcoal Series', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Image Processor', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Animations', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Animation Basics Course Projects', folder: 'proj-6', file: 'projects/proj-6.html'}
 - {name: 'Maze Generator and Solver', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'CITES Web Design', folder: 'proj-7', file: 'projects/proj-7.html'}
+- {name: 'Animations In Adobe After Effects', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Art @ PEA', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------

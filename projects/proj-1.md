@@ -8,7 +8,7 @@ I pushed myself to learn how to draw the human figure though a combination of fu
 
 {% include singleimage.html url="" image="projects/proj-1/selfPortrait.jpg" %}
 
-The above image is a self portrait of myself. It is 2 feet in width and 3 feet in height, taking me around 12 hours to complete. I used a process called griding, which is when the artists grids the reference photo and the paper of the final piece to have guilines to create more realistic proportions. I spent most of my time working on the proportions on my piece to achieve the greatest likeness. However, I also focused on creating realistic textures for my hair and speckled shirt. 
+The above image is a self portrait of myself. It is two feet in width and three feet in height, taking me around twelve hours to complete. I used a process called gridding, which is when the artists grids the reference photo and the paper of the final piece to have guilines to create more realistic proportions. I spent most of my time working on the proportions on my piece to achieve the greatest likeness to myself. However, I also focused on creating realistic textures for my hair and speckled shirt. 
 
 {% include singleimage.html url="" image="projects/proj-1/landscape.jpg" %}
 
@@ -20,4 +20,4 @@ In this piece I wanted to practice drawing the human form in perspective.
 
 {% include singleimage.html url="" image="projects/proj-1/lookOutWindow.jpg" %}
 
-For my classes final assignment, I created this piece. Instead of focusing on my technical skills in this piece, I wanted it more to focus on a concept. By framing a greater amount of the piece in dark shades, I created a more somber mood. There is also the figure (me) looking out a window into nothingness, along the viewer to participate in the drawing by filling in the blanks of what is outside.
+For my class's final assignment, I created this piece of myself sitting on my bed looking out a window. Instead of focusing on my technical skills in this piece, I wanted it more to focus on a concept. By framing a greater amount of the piece in dark shades, I created a more somber mood. There is also the figure (me) looking out a window into nothingness, allowing the viewer to participate in the drawing by filling in the blanks of what is outside.
